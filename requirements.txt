@@ -1,0 +1,5 @@
+# Le projet n'utilise que la bibliothèque standard de Python 3.11+
+# (tkinter pour l'interface graphique, heapq, statistics, random…).
+#
+# Dépendance de développement uniquement : les tests.
+pytest>=8.0
